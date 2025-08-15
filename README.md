@@ -69,7 +69,7 @@
 
 ---
 
-### 📜 Certifications
+### 📜 <a href="https://drive.google.com/drive/folders/1Ci1UHF6N3ne6sadMPactw3bdbeqnuKXF?usp=drive_link">Certifications</a>
 - Spring Boot RESTful Web Services — Forage *(Aug 2025)*  
 - Spring Boot Microservices Professional eCommerce Masterclass — Udemy *(2024–25)*  
 - Java, C++, JavaScript, SQL — Sololearn *(2023–24)*  
