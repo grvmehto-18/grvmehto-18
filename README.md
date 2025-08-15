@@ -59,9 +59,6 @@
 - **No Dues** — Full‑stack app to automate college dues clearance with role‑based access and e‑signature flow. *Java, Spring Boot, React + TypeScript, MySQL* (2025).
 - **Blood Link** — Donor‑recipient matching with search, registration, and responsive UI. *Java, Spring MVC, Thymeleaf, MySQL* (2024).
 - **Hospital Management System** — Patient records and appointment scheduling with role‑based access. *Java, J2EE, MySQL* (2024).
-
-> Want links here? Drop the repo URLs and I’ll wire them in.
-
 ---
 
 ### 💼 Experience
