@@ -14,7 +14,7 @@
 <p align="center">
   <a href="mailto:mehto18g@gmail.com">Email</a> •
   <a href="https://github.com/grvmehto-18">GitHub</a> •
-  <a href="https://www.linkedin.com/in/">LinkedIn</a> <!-- add your LinkedIn slug -->
+  <a href="https://www.linkedin.com/in/gourav-mehto-b45954255">LinkedIn</a> <!-- add your LinkedIn slug -->
 </p>
 
 ---
