@@ -84,7 +84,7 @@
 
 ---
 
-### 🎓 Education
+### 🎓  <a href="https://drive.google.com/drive/folders/1CiqU4nzili6dp_rwx-LwxbvpmCjwKbVC?usp=sharing">Education</a>
 - **B.Tech, CSE (2022–2026)** — IPS Academy, Institute of Engineering & Science, Indore  
 - **SSC (92.4%) & HSC (90%)** — Sanskar Valley Public HSS *(2019, 2021)*
 
